@@ -32,6 +32,6 @@ while loop == 1:
         operan_d = input("/ ")
         hasil = (operan_a + operan_b) * (operan_c / operan_d)
         totalTime = format((time.time() - start_time), '.5f')
-        print "hasil dari", "(",operan_a, "+", operan_b,")", "*", "(",operan_c, "/", operan_d,")", "adalah", hasil, ", dengan delta t :", totalTime
+        print "hasil dari", "(",operan_a, "+", operan_b,")", "*", "(",operan_c, "/", operan_d,")", "adalah", hasil
 
         loop = 0;
