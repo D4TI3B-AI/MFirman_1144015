@@ -9,6 +9,9 @@ delapan = 8;
 sembilan = 9;
 
 loop = 1
+nama = "Nama : M Firman Kahfi"
+npm = "NPM : 1144015"
+kelas = "Kelas : D4TI3B"
 
 import time
 start_time = time.time()
