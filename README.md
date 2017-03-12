@@ -1,2 +1,6 @@
 # MFirman_1144015
 Artificial Inteligence
+
+NAMA : MUHAMMAD FIRMAN KAHFI
+NPM : 1144015
+KELAS : D4 TI 3B
