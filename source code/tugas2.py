@@ -1,12 +1,15 @@
 graph = {
              'Rumah': ['Brebes'],
-             'Brebes': ['Bumiayu'],
-             'Bumiayu': ['Cirebon'],
+             'Brebes': ['Tegal'],
+             'Tegal': ['Cirebon'],
              'Cirebon': ['Sumedang'],
              'Sumedang': ['Jatinangor'],
              'Jatinangor': ['LeuwiPanjang'],
-             'Sarijadi': ['Sariasih'],
-              'Sariasih': ['Cijerokaso']
+             'LeuwiPanjang': ['PasarBaru'],
+             'PasarBaru': ['Sariasih'],
+             'Sariasih': ['Sarijadi'],
+             'Sarijadi': ['Kost'],
+             'Kost': ['Sarijadi','Sariasih']
         }
 
 def mencari_jalur_terpendek(graph, jalanawal, jalantujuan, jalur=[]):
@@ -23,9 +26,9 @@ def mencari_jalur_terpendek(graph, jalanawal, jalantujuan, jalur=[]):
                     if not jalurpendek or len(newjalur) < len(jalurpendek):
                         jalurpendek = newjalur
         return jalurpendek
-print("Jalur Jalan Raya Dari Rumah ke Kost Sarijadi")
-print("(Brebes, Bumiayu, Cirebon, Sumedang)")
-print("(Jatinangor, LeuwiPanjang, Sariasih, Cijerokaso)")
+print("Jalur Jalan Raya Dari Rumah Sampai Kost")
+print("(Rumah, Brebes, Tegal, Cirebon, Sumedang, Jatinangor)")
+print("(LeuwiPanjang, PasarBaru, Sariasih, Sarijadi, Kost)")
 print("\n")
 jalanawal = raw_input("Masukan jalanawal : ")
 jalantujuan = raw_input("Masukan jalantujuan : ")

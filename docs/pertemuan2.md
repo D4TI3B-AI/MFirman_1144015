@@ -1,1 +1,0 @@
-Rute dengan Python
