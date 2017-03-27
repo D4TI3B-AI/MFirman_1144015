@@ -1,11 +1,11 @@
-atar Belakang Masalah
+Latar Belakang Masalah
 
 Apa yang dimaksud Reasoning?
 Apa yang dimaksud Semantik Network?
 Apa ciri – ciri Semantik Network?
 Apa yang dimaksud Frame?
 Apa ciri – ciri Frame?
-Reasoning merupakan proses yang berhubungan dengan pengetahuan, fakta, dan strategi pemecahan masalah (problem solving) untuk mendapatkan konklusi/penyelesaian. Berbagai metode penalaran yang lazim adalah deduksi, induksi, abduktip, analogi, dan akal sehat, berikut ini penjelasan singkatnya. Contoh: Bayu adalah laki - laki
+Reasoning merupakan proses yang berhubungan dengan pengetahuan, fakta, dan strategi pemecahan masalah (problem solving) untuk mendapatkan konklusi/penyelesaian. Berbagai metode penalaran yang lazim adalah deduksi, induksi, abduktip, analogi, dan akal sehat, berikut ini penjelasan singkatnya. Contoh: Firman adalah laki - laki
 
 Semantik Network merupakan representasi grafis deklaratif yang dapat digunakan baik untuk mewakili pengetahuan atau untuk mendukung penalaran pengetahuan sistem otomatis
 
