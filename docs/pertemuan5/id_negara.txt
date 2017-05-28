@@ -1,0 +1,19 @@
+af Afrikaans 	ko Korean 	ht Haitian
+sq Albanian 	lo Lao  	ha Hausa
+ar Arabic 	la Latin 	en English
+hy Armenian 	lv Latvian 	hi Hindi
+az Azerbaijani 	lt Lithuanian 	hu Hungarian
+eu Basque 	mk Macedonian 	is Icelandic
+be Belarusian 	mg Malagasy 	ig Igbo
+bn Bengali 	ms Malay 	id Indonesian
+bs Bosnian 	ml Malayalam 	ga Irish
+bg Bulgarian 	mt Maltese 	it Italian
+ca Catalan 	mi Maori 	ja Japanese
+ny Chichewa 	mr Marathi 	jw Javanese
+zh -CNChinese 	mn Mongolian 	kn Kannada
+zh -TWChinese 	my Myanmar 	kk Kazakh
+hr Croatian 	ne Nepali 	km Khmer
+cs Czech 	no Norwegian 	ko Korean
+....etc
+
+Credit to Mas Agus Makmun python.web.id
